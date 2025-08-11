@@ -1,0 +1,122 @@
+{
+    "Trámites": [
+        {
+            "es": "pasaporte",
+            "de": "Reisepass"
+        },
+        {
+            "es": "visa",
+            "de": "Visum"
+        },
+        {
+            "es": "permiso de residencia",
+            "de": "Aufenthaltserlaubnis"
+        },
+        {
+            "es": "registro",
+            "de": "Anmeldung"
+        },
+        {
+            "es": "formulario",
+            "de": "Formular"
+        },
+        {
+            "es": "cita",
+            "de": "Termin"
+        },
+        {
+            "es": "oficina de extranjería",
+            "de": "Ausländerbehörde"
+        }
+    ],
+    "Vivienda": [
+        {
+            "es": "alquiler",
+            "de": "Miete"
+        },
+        {
+            "es": "contrato",
+            "de": "Vertrag"
+        },
+        {
+            "es": "departamento",
+            "de": "Wohnung"
+        },
+        {
+            "es": "vecino",
+            "de": "Nachbar"
+        },
+        {
+            "es": "dirección",
+            "de": "Adresse"
+        },
+        {
+            "es": "mudanza",
+            "de": "Umzug"
+        },
+        {
+            "es": "depósito",
+            "de": "Kaution"
+        }
+    ],
+    "Salud": [
+        {
+            "es": "seguro médico",
+            "de": "Krankenversicherung"
+        },
+        {
+            "es": "médico",
+            "de": "Arzt"
+        },
+        {
+            "es": "cita médica",
+            "de": "Arzttermin"
+        },
+        {
+            "es": "hospital",
+            "de": "Krankenhaus"
+        },
+        {
+            "es": "farmacia",
+            "de": "Apotheke"
+        },
+        {
+            "es": "síntoma",
+            "de": "Symptom"
+        },
+        {
+            "es": "receta",
+            "de": "Rezept"
+        }
+    ],
+    "Trabajo": [
+        {
+            "es": "empleo",
+            "de": "Arbeit"
+        },
+        {
+            "es": "contrato laboral",
+            "de": "Arbeitsvertrag"
+        },
+        {
+            "es": "currículum",
+            "de": "Lebenslauf"
+        },
+        {
+            "es": "entrevista",
+            "de": "Vorstellungsgespräch"
+        },
+        {
+            "es": "jornada laboral",
+            "de": "Arbeitszeit"
+        },
+        {
+            "es": "salario",
+            "de": "Gehalt"
+        },
+        {
+            "es": "empleador",
+            "de": "Arbeitgeber"
+        }
+    ]
+}
